@@ -1,6 +1,6 @@
 # pruebaNamespace
 
-'''mermaid
+```mermaid
 classDiagram
 namespace BaseShapes {
     class Triangle
@@ -9,3 +9,4 @@ namespace BaseShapes {
       double height
     }
 }
+```
